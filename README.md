@@ -65,3 +65,5 @@ The number of items established/introduced peaked dramatically around 2018 (1463
 
 # Conclusion
 The BlinkIt platform is heavily driven by Supermarket Type 1 outlets, which stock the largest volume of items (5.5K out of 9K) and generate the most revenue. The inventory focus is clearly on Low Fat items, especially in the Fruits/Vegetables and Snack Foods categories, with Medium outlets and Tier 3/Tier 2 locations being the primary volume hubs
+
+https://github.com/Manasa123-svg/BlinKit-Grocery-analysis-Power-Bi/blob/main/Blinkit%20grocery%20dashboard%20power%20bi.png
