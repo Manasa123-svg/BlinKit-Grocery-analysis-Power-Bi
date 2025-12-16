@@ -14,40 +14,54 @@ The dashboard provides an immediate overview of the platform's performance:
 **Average Sales**:	141
 **Average Rating**:	3.92
 
-# Outlet Performance Analysis
+# Item Volume and Content Analysis
 
-# 1. By Outlet Type (Table)
+The dashboard indicates a total of 9K items currently tracked.
 
-Supermarket Type 1 is the clear leader in sales volume, generating 788K in Total Sales and processing 5,577 Total Items.
+# 1. By Item Fat Content (Donut Chart)
 
-All outlet types show remarkably consistent Average Sales (140-142) and Average Ratings (3.91-3.93), suggesting uniform customer experience but vast differences in scale/volume.
+Low Fat items significantly outweigh Regular items in volume, making up 6K of the total items compared to 3K for Regular items.
 
-# 2. By Outlet Size (Bar Chart)
+# 2. By Item Type (Bar Chart)
 
-Medium outlets account for the highest sales at 508K, followed by Small outlets at 445K, with High size outlets trailing at 249K.
+Fruits and Vegetables (1232 items) and Snack Foods (1200 items) are the most numerous item categories.
 
-# 3. By Outlet Location Type (Bar Chart)
+Household (910 items) and Frozen Foods (856 items) are the next largest categories by item count.
 
-Sales are highest in Tier 3 locations (0.47M), followed by Tier 2 (0.39M), and Tier 1 (0.34M).
+Seafood (64 items) and Breakfast (110 items) are the least represented categories.
 
-# 4. By Establishment Year (Treemap)
+# 3. Item Fat Content by Location Tier (Stacked Bar)
 
-Outlets established in 2018 show the highest total sales (205K), followed by a cluster of years (2017, 2014, 2022, 2015) hovering around the 131K - 133K mark.
+Low Fat items dominate the count in all three tiers, with the highest volume in Tier 3 (2.2K Low Fat) and the lowest in Tier 1 (1.5K Low Fat).
 
-# Item Performance Analysis
+#  Outlet Volume and Performance Analysis
 
-# 1. By Item Type (Bar Chart)
+# 1. Outlet Type Performance (Table)
 
-The two top-selling categories are **Fruits and Vegetables** and Snack Foods, both generating 0.18M in Total Sales.
+While all outlet types maintain nearly identical Average Sales ($140 - $142) and Average Ratings (3.9), the volume and sales distribution are highly skewed:
+Outlet Type	Total Sales	
 
-Other high-performing categories include Household (0.14M) and Frozen Foods (0.12M).
+Supermarket Type 1	$7,87,550	5,577	The dominant outlet, responsible for the vast majority of sales and item volume.
 
-Seafood is the lowest-performing category at 0.01M.
+Grocery Store	$1,51,939	1,083	Second highest in both sales and item volume.
 
-# 2. By Item Fat Content (Donut Chart)
+# 2. Outlet Volume by Size (Pie Chart)
 
-Items categorized as Low Fat are the dominant sellers, making up 64.6% of Total Sales, compared to 35.4% for Regular fat items.
+Medium-sized outlets stock the highest volume of items (approx. 4K).
+
+Small outlets hold the second-highest volume (approx. 3K).
+
+High outlets hold the lowest volume (approx. 2K).
+
+# 3. Outlet Volume by Location Tier (Bar Chart)
+
+Tier 3 and Tier 2 locations both stock the highest volume of items at 3K each.
+
+Tier 1 locations stock the lowest volume at 2K.
+
+# 4. Outlet Establishment Year (Line Chart - Total Items)
+
+The number of items established/introduced peaked dramatically around 2018 (1463 items), with other years generally seeing a stable volume of around 920-930 items.
 
 # Conclusion
-
-The dashboard indicates that Supermarket Type 1 in Tier 3 locations and of Medium size are the primary drivers of revenue for BlinkIt. From a product perspective, the market shows a strong preference for Low Fat items, with Fruits & Vegetables and Snack Foods being the most valuable categories. Future optimization efforts should prioritize high-visibility items in Supermarket Type 1 and consider the sales potential of older outlets (established around 2018).
+The BlinkIt platform is heavily driven by Supermarket Type 1 outlets, which stock the largest volume of items (5.5K out of 9K) and generate the most revenue. The inventory focus is clearly on Low Fat items, especially in the Fruits/Vegetables and Snack Foods categories, with Medium outlets and Tier 3/Tier 2 locations being the primary volume hubs
